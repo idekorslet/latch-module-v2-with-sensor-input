@@ -1,4 +1,5 @@
-latch module versi 2 ini mendukung input dari berbagai macam sensor, selama output dari sensornya bernilai HIGH.
+latch module versi 2 ini mendukung input dari berbagai macam sensor, selama output dari sensornya bernilai HIGH dan maksimal 5v.
+this latch module v2 support any sensor as long the output signal of the sensor is HIGH and maks 5v.
 
 preview:
 
