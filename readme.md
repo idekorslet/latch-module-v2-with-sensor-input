@@ -6,7 +6,7 @@ preview:
 
 
 skematik / schematic:
-<img src=https://github.com/idekorslet/latch-module-v2-with-sensor-input/blob/main/schematic.JPG>
+<img src=https://github.com/idekorslet/latch-module-v2-with-sensor-input/blob/main/skematik.JPG>
 
 
 video lengkap cara membuatnya / full video how to make this module:
